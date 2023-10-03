@@ -19,9 +19,9 @@ O programa então encontra todas as combinações possíveis com repetição dos
 ## Objetivo
 No código disponibilizado os numeros atendem para um cenário especifico de um dia especifico. 
 
-Em um código mais aprimorado ele pega as variáveis de forma dinâmica e é disponibilizado de hora em hora para as partes interessadas com o objetivo de mostrar o melhor caminho para bater a meta
+Em um código mais aprimorado ele pega as variáveis de forma dinâmica e é disponibilizado de hora em hora para as partes interessadas com o objetivo de mostrar o melhor caminho para bater a meta.
 
-Achei super divertido desenvolver esse programa e brincar com possibilidades
+Achei super divertido desenvolver esse programa e brincar com possibilidades.
 
 
 ## Licença
